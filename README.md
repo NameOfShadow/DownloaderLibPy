@@ -1,6 +1,6 @@
 **pip install downloaderlib
 
-*downloaderlib - is a small library that makes downloading easier, with this library you can download picture, audio and GitHub code.*
+downloaderlib - is a small library that makes downloading easier, with this library you can download picture, audio and GitHub code.*
 
 **from downloaderlib import *  -/import the library**
 
@@ -14,4 +14,4 @@
 
 
 
-**Link to the library: https://pypi.org/project/downloaderlib/
+Link to the library: https://pypi.org/project/downloaderlib/
