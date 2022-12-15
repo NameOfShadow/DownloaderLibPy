@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+downloaderlib/__init__.py
+downloaderlib/downloader.py
+downloaderlib.egg-info/PKG-INFO
+downloaderlib.egg-info/SOURCES.txt
+downloaderlib.egg-info/dependency_links.txt
+downloaderlib.egg-info/requires.txt
+downloaderlib.egg-info/top_level.txt

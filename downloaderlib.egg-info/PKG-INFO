@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: downloaderlib
+Version: 3.2
+Summary: This library is for downloading picture, GitHub files, audio and etc.
+Home-page: UNKNOWN
+Author-email: 0nameofshadow0@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
 *downloaderlib - is a small library that makes downloading easier, with this library you can download picture, audio and GitHub code.*
 
 **from downloaderlib import *  -/import the library**
@@ -9,3 +19,4 @@
 **downloader.audio(link, name_dir) -/ link - link to audio, name_dir - folder where this audio will be downloaded**
 
 *The main thing is that at the end of the link there should be the format mp3, md, py, js, etc.*
+
