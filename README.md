@@ -1,4 +1,4 @@
-***pip install downloaderlib
+**pip install downloaderlib
 
 *downloaderlib - is a small library that makes downloading easier, with this library you can download picture, audio and GitHub code.*
 
